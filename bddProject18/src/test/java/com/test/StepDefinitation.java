@@ -72,7 +72,7 @@ public class StepDefinitation {
 
 	@Then("^Based on the result user should get return true or false\\.$")
 	public void based_on_the_result_user_should_get_return_true_or_false() throws Throwable {
-	    
+	   System.out.println("user is profile page"); 
 	}
 
 }
